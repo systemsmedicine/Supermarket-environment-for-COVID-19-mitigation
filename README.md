@@ -1,4 +1,4 @@
-# Supermarket environment for COVID-19 mitigation
+# Supermarket simulation environment for COVID-19 mitigation
 
 
 This repository contains an agent-based modeling framework for the potential spread of SARS-CoV-2 in commercial establishments such as supermarkets.
