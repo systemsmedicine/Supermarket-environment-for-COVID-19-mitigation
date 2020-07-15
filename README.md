@@ -1,5 +1,5 @@
-# Supermarket-environment-for-COVID-19-mitigation
-Testing platform for COVID-19 mitigation policies in small supermarkets
+# Supermarket environment for COVID-19 mitigation
+
 
 This repository contains an agent-based modeling framework for the potential spread of SARS-CoV-2 in commercial establishments such as supermarkets.
 
