@@ -8,8 +8,8 @@ Diverse scenarios can be tested for different susceptible population sizes, that
 All agents can move through the supermarket corridors following two schemes, the flexible-moving policy, and a restricted-moving policy.
 Finally, each simulation file writes the number of agents and the distancing rule in its file name.
 
-Further details please refer to: https://www.medrxiv.org/content/10.1101/2020.06.11.20128850v1
+Further details please refer to: https://www.sciencedirect.com/science/article/pii/S0025556420301036
 
-**Cite the corresponding tool as follows**: Hernandez-Mejia G. and Hernandez-Vargas E.A., When is SARS-CoV-2 in your shopping list?, 2020.
+**Cite the corresponding tool as follows**: Hernandez-Mejia G. and Hernandez-Vargas E.A., When is SARS-CoV-2 in your shopping list?, Mathematical Biosciences, 2020.
 
 
